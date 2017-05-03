@@ -7,7 +7,7 @@ Créer un bouton "cliquez-moi!" en html. Au clic sur le bouton,
 afficher une boite de dialogue avec le message "On vous ferait vraiment faire n'importe quoi !"
 
 ## Exercice 2
-Au double click, modifier la largeur de l'image à 1735px;
+Au double click sur l'image, modifier la largeur de l'image à 1735px;
 
 ## Exercice 3
 Changer les propriétés css de la div texte au hover par les propriétés suivantes :
